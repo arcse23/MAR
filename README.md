@@ -2,4 +2,4 @@
 
 This is a project submitted for consideration under the Minimum Activity Requirement criteria of MAKAUT.
 
-This project allows the user to draw custom mazes and find the optimal path from the start node to the destination node using the A* algorithm. It visualises the operation of the A* algorithm using pygame.
+The project is developed in Python using matplotlib for visualization. It generates a grid of size N x N and fills it with rectangular obstacles. It then finds the shortest path between any two free points in the grid using the A* algorithm.
